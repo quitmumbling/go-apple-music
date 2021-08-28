@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/minchao/go-apple-music"
+	applemusic "github.com/quitmumbling/go-apple-music"
 )
 
 func usage() {
