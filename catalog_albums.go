@@ -21,6 +21,7 @@ type AlbumAttributes struct {
 	PlayParams     *PlayParameters `json:"playParams,omitempty"`
 	TrackCount     int64           `json:"trackCount"`
 	URL            string          `json:"url"`
+	UPC            string          `json:"upc"`
 }
 
 // AlbumRelationships represents a to-one or to-many relationship from one resource object to others.
