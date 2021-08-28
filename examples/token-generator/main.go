@@ -6,7 +6,7 @@ import (
 	"io/ioutil"
 	"os"
 
-	"github.com/minchao/go-apple-music/token"
+	"github.com/quitmumbling/go-apple-music/token"
 )
 
 func usage() {
